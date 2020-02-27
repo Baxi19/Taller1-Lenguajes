@@ -9,4 +9,8 @@
 C:/Users/Baxi/CLionProjects/untitled/main.c
 stdio.h
 -
+stdlib.h
+-
+string.h
+-
 
